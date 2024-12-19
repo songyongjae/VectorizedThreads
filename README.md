@@ -2,7 +2,7 @@
 By leveraging multi-threading and vectorized operations, this framework efficiently handles large-scale linear algebra problems, making it an optimal choice for applications requiring intensive numerical simulations.
 
 ## Overview
-`MultiStockSimulation` is a C++ project that simulates stock price paths for multiple stocks using mathematical models, including the Black-Scholes model and multi-stock covariance models. The project leverages matrix operations and multi-threading for high-performance computation.
+`VectorizedThreads` is a C++ project that simulates stock price paths for multiple stocks using mathematical models, including the Black-Scholes model and multi-stock covariance models. The project leverages matrix operations and multi-threading for high-performance computation.
 
 This repository includes:
 - Simulation of stock price paths using drift and covariance matrices.
